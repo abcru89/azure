@@ -1,0 +1,42 @@
+{
+  "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+  "contentVersion": "1.0.0.0",
+  "parameters": {
+    "VM1SUBNET1Name": {
+      "value": "VMSUBNET11"
+    },
+    "VM1SUBNET1AdminUserName": {
+      "value": "MyVMOneAdminUser"
+    },
+    "VM1SUBNET1AdminPassword": {
+      "value": "L33Tboss!!060489"
+    },
+    "VM2SUBNET1Name": {
+      "value": "VMSUBNET21"
+    },
+    "VM2SUBNET1AdminUserName": {
+      "value": "MyVMOneAdminUser"
+    },
+    "VM2SUBNET1AdminPassword": {
+      "value": "L33Tboss!!060489"
+    },
+    "VM1SUBNET2Name": {
+      "value": "VMSUBNET12"
+    },
+    "VM1SUBNET2AdminUserName": {
+      "value": "MyVMOneAdminUser"
+    },
+    "VM1SUBNET2AdminPassword": {
+      "value": "L33Tboss!!060489"
+    },
+    "VM2SUBNET2Name": {
+      "value": "VMSUBNET22"
+    },
+    "VM2SUBNET2AdminUserName": {
+      "value": "MyVMOneAdminUser"
+    },
+    "VM2SUBNET2AdminPassword": {
+      "value": "L33Tboss!!060489"
+    }
+  }
+}
